@@ -1,11 +1,16 @@
 _repo: The-Writing-of-News-A-Handbook-with-Chapters-on-Newspaper-Correspondence-and-Copy-Reading_59791
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59791-h/images/cover2.jpg
 creator:
   author:
     agent_name: Ross, Charles G.
     gutenberg_agent_id: '50627'
     url: http://www.gutenberg.org/2009/agents/50627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59791#The-Writing-of-News-A-Handbook-with-Chapters-on-Newspaper-Correspondence-and-Copy-Reading
 gutenberg_issued: '2019-06-22'
 gutenberg_type: Text
 identifiers:
